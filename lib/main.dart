@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: theme,
-      title: 'harrry_s_todoprovider',
+      title: 'todoprovider',
       debugShowCheckedModeBanner: false,
       navigatorKey: NavigatorService.navigatorKey,
       localizationsDelegates: [
